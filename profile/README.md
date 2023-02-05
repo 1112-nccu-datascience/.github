@@ -9,8 +9,11 @@ By the end of this course, you will be able to:
 - Communicate your findings and insights effectively to a non-technical audience
 - Learn to use the github platform and create a project of your own on github
 
-This course has 18 weeks, details can be found in the course introduction → 🗒️[1112.Data Science 資料科學](https://www.changlabtw.com/1112-datascience.html)
+This course has 18 weeks, details can be found in the course introduction 
+<br>
+&nbsp; → 🗒️[1112.Data Science 資料科學](https://www.changlabtw.com/1112-datascience.html)
 
+## Assignments
 In this course, there are 6 assignments:
 ||Title|Date open|Date close|
 |-|-|-|-|
@@ -21,6 +24,7 @@ In this course, there are 6 assignments:
 |HW5|Familiar with R basics & submit homework on github|||
 |HW6|Familiar with R basics & submit homework on github|||
 
+## About final project
 The final project of this course calls for students from different departments to work together and implement a data science project. The project topic can be sourced from government public data, Kaggle, or public competitions. Each group of students is expected to thoroughly organize the project into a complete and public github repository, and communicate effectively with their classmates.
 
 We are confident that you will find this course both challenging and rewarding, and that you will emerge with a solid foundation in data science using the R programming language. So, let's dive in and start learning!
