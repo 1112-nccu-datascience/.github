@@ -19,7 +19,7 @@ In this course, there are 7 assignments:
 |HW4|Interactive web service of PCA and CA analysis by Shinyapp|⭐⭐⭐⭐⭐|||
 |HW5|Titanic: Machine Learning from Disaster|⭐⭐⭐|||
 |HW6|GiveMeSomeCredit|⭐⭐⭐⭐|||
-|HW7|kaggle competition|⭐⭐⭐⭐|||
+|HW7|Kaggle competition|⭐⭐⭐⭐|||
 
 ## About final project
 The final project of this course calls for students from different departments to work together and implement a data science project. The project topic can be sourced from government public data, Kaggle, or public competitions. Each group of students is expected to thoroughly organize the project into a complete and public github repository, and communicate effectively with their classmates.
