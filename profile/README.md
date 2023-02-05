@@ -16,7 +16,7 @@ In this course, there are 6 assignments:
 |HW1|Familiar with R basics & submit homework on github|⭐|||
 |HW2|Evalute a mode for predicting loans that are about to default|⭐⭐|||
 |HW3|Predict protein subcellular localization|⭐⭐|||
-|HW4||⭐⭐⭐|||
+|HW4|Interactive web service of PCA and CA analysis by Shinyapp|⭐⭐⭐⭐|||
 |HW5||⭐⭐⭐|||
 |HW6||⭐⭐⭐⭐|||
 
