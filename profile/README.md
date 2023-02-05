@@ -15,10 +15,10 @@ In this course, there are 6 assignments:
 |-|-|:-:|:-:|:-:|
 |HW1|Familiar with R basics & submit homework on github|⭐|||
 |HW2|Evalute a mode for predicting loans that are about to default|⭐⭐|||
-|HW3|Predict protein subcellular localization|⭐⭐|||
-|HW4|Interactive web service of PCA and CA analysis by Shinyapp|⭐⭐⭐⭐|||
-|HW5||⭐⭐⭐|||
-|HW6||⭐⭐⭐⭐|||
+|HW3|Predict protein subcellular localization|⭐⭐⭐|||
+|HW4|Interactive web service of PCA and CA analysis by Shinyapp|⭐⭐⭐⭐⭐|||
+|HW5|Titanic: Machine Learning from Disaster|⭐⭐⭐|||
+|HW6|GiveMeSomeCredit|⭐⭐⭐⭐|||
 
 ## About final project
 The final project of this course calls for students from different departments to work together and implement a data science project. The project topic can be sourced from government public data, Kaggle, or public competitions. Each group of students is expected to thoroughly organize the project into a complete and public github repository, and communicate effectively with their classmates.
