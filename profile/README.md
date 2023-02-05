@@ -1,4 +1,4 @@
-# Hi there
+# Hi there 👋
 Welcome to `NCCU Data Science 111-2`, a comprehensive and engaging course designed to help you learn [topic or skill]. In this course, you will gain a deep understanding of [topic or skill] and how to apply it in real-world scenarios. Whether you are a beginner or have some experience, this course has something for everyone.
 
 By the end of this course, you will be able to:
