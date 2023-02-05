@@ -12,7 +12,7 @@ By the end of this course, you will be able to:
 ## Assignments
 In this course, there are 6 assignments:
 ||Title|Challenge|Date open|Date close|
-|-|-|:-:|:-:|:-:|
+|-|-|-|:-:|:-:|
 |HW1|Familiar with R basics & submit homework on github|⭐|||
 |HW2|Evalute a mode for predicting loans that are about to default|⭐⭐|||
 |HW3|Predict protein subcellular localization|⭐⭐⭐|||
