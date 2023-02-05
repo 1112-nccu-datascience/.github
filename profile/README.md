@@ -11,14 +11,14 @@ By the end of this course, you will be able to:
 
 ## Assignments
 In this course, there are 6 assignments:
-||Title|Date open|Date close|
-|-|-|-|-|
-|HW1|Familiar with R basics & submit homework on github|||
-|HW2||||
-|HW3|predict protein subcellular localization|||
-|HW4||||
-|HW5||||
-|HW6||||
+||Title|Challenge|Date open|Date close|
+|-|-|:-:|:-:|:-:|
+|HW1|Familiar with R basics & submit homework on github|⭐|||
+|HW2|||||
+|HW3|predict protein subcellular localization||||
+|HW4|||||
+|HW5|||||
+|HW6|||||
 
 ## About final project
 The final project of this course calls for students from different departments to work together and implement a data science project. The project topic can be sourced from government public data, Kaggle, or public competitions. Each group of students is expected to thoroughly organize the project into a complete and public github repository, and communicate effectively with their classmates.
