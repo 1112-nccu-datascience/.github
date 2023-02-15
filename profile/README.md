@@ -10,9 +10,9 @@ By the end of this course, you will be able to:
 - Learn to use the github platform and create a project of your own on github
 
 ## Assignments
-||Title|Challenge|Date open|Date close|
+||Title|Challenge|Open|Due|
 |-|-|-|:-:|:-:|
-|HW1|Familiar with R basics & submit homework on github|⭐|||
+|HW1|Familiar with R basics & submit homework on github|⭐|2/16|2/23|
 |HW2|Evalute a mode for predicting loans that are about to default|⭐⭐|||
 |HW3|Predict protein subcellular localization|⭐⭐⭐|||
 |HW4|Interactive web service of PCA and CA analysis by Shinyapp|⭐⭐⭐⭐⭐|||
