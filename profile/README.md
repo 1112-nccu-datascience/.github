@@ -13,8 +13,8 @@ By the end of this course, you will be able to:
 ||Title|Challenge|Open|Due|Link|
 |-|-|-|:-:|:-:|:-:|
 |HW1|Familiar with R basics & submit homework on github|⭐|2/16|2/23|[🔗](https://classroom.github.com/a/iiu49CN9)|
-|HW2|Evalute a mode for predicting loans that are about to default|⭐⭐||||
-|HW3|Predict protein subcellular localization|⭐⭐⭐||||
+|HW2|Evalute a mode for predicting loans that are about to default|⭐⭐|3/2|3/9||
+|HW3|Predict protein subcellular localization|⭐⭐⭐|3/16|3/23||
 |HW4|Interactive web service of PCA and CA analysis by Shinyapp|⭐⭐⭐⭐⭐||||
 |HW5|Titanic: Machine Learning from Disaster|⭐⭐⭐||||
 |HW6|GiveMeSomeCredit|⭐⭐⭐⭐||||
