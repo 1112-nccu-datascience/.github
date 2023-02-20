@@ -16,14 +16,14 @@ By the end of this course, you will be able to:
 |HW2|Evalute a mode for predicting loans that are about to default|⭐⭐|03/02|03/16||
 |HW3|Predict protein subcellular localization|⭐⭐⭐|03/16|03/30||
 |HW4|Interactive web service of PCA and CA analysis by Shinyapp|⭐⭐⭐⭐⭐|04/06|04/20|
-|HW5|Titanic: Machine Learning from Disaster|⭐⭐⭐|04/27|05/11||
-|HW6|GiveMeSomeCredit|⭐⭐⭐⭐|05/18|06/01||
-|HW7|Kaggle competition|⭐⭐⭐⭐|06/01|06/15||
+|HW5|Kaggle: Titanic - Machine Learning from Disaster|⭐⭐⭐|04/27|05/11||
+|HW6|Kaggle: GiveMeSomeCredit|⭐⭐⭐⭐|05/18|06/01||
+|HW7|Kaggle: internal course competition|⭐⭐⭐⭐|06/01|06/15||
 
 _Note: The star rating is based on the TA's subjective perception_
 
 ## About final project
-The final project of this course calls for students from different departments to work together and implement a data science project. The project topic can be sourced from government public data, Kaggle, or public competitions. Each group of students is expected to thoroughly organize the project into a complete and public github repository, and communicate effectively with their classmates.
+The final project of this course calls for students from different departments to work together and implement a data science project. The project topic can be sourced from public data, public competitions (i.e., Kaggle) or your own dataset. Each group of students is expected to thoroughly organize the project into a complete and public github repository, and communicate effectively with their classmates.
 
 ## Over All
 We are confident that you will find this course both challenging and rewarding, and that you will emerge with a solid foundation in data science using the R programming language. So, let's dive in and start learning!
