@@ -13,12 +13,12 @@ By the end of this course, you will be able to:
 ||Title|Challenge|Open|Due|
 |-|-|-|:-:|:-:|
 |HW1|Familiar with R basics & submit homework on github|⭐|02/16|03/09|
-|HW2|Evalute a mode for predicting loans that are about to default|⭐⭐|03/02|03/16|
-|HW3|Predict protein subcellular localization|⭐⭐⭐|03/16|03/30|
-|HW4|Interactive web service of PCA and CA analysis by Shinyapp|⭐⭐⭐⭐⭐|04/06|04/20|
-|HW5|Kaggle: Titanic - Machine Learning from Disaster|⭐⭐⭐|04/27|05/11|
-|HW6|Kaggle: GiveMeSomeCredit|⭐⭐⭐⭐|05/18|06/01|
-|HW7|Kaggle: internal course competition|⭐⭐⭐⭐|06/01|06/15|
+|HW2|Evalute a mode for predicting loans that are about to default|⭐⭐|03/07|03/23|
+|HW3|Predict protein subcellular localization|⭐⭐⭐|03/23|04/06|
+|HW4|Interactive web service of PCA and CA analysis by Shinyapp|⭐⭐⭐⭐⭐|04/13|04/27|
+|HW5|Kaggle: Titanic - Machine Learning from Disaster|⭐⭐⭐|05/04|05/18|
+|HW6|Kaggle: GiveMeSomeCredit|⭐⭐⭐⭐|05/25|06/08|
+|HW7|Kaggle: internal course competition|⭐⭐⭐⭐|06/01|06/22|
 
 _Note: The star rating is based on the TA's subjective perception_
 
