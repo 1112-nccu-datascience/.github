@@ -18,7 +18,7 @@ By the end of this course, you will be able to:
 |HW4|Interactive web service of PCA and CA analysis by Shinyapp|⭐⭐⭐⭐⭐|04/13|04/27|
 |HW5|Kaggle: Titanic - Machine Learning from Disaster|⭐⭐⭐|05/04|05/18|
 |HW6|Kaggle: GiveMeSomeCredit|⭐⭐⭐⭐|05/25|06/08|
-|HW7|Kaggle: internal course competition|⭐⭐⭐⭐|06/01|06/22|
+|HW7|Kaggle: internal course competition|⭐⭐⭐⭐|06/08|06/22|
 
 _Note: The star rating is based on the TA's subjective perception_
 
